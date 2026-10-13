@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Farnaz 40th//Invitation//FA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:farnaz-40th-20261101@invitation
+DTSTAMP:20261007T000000Z
+DTSTART:20261101T153000Z
+DTEND:20261101T200000Z
+SUMMARY:Farnaz's 40th Birthday · Forty & Fabulous
+LOCATION:Velenjak\, Tehran
+DESCRIPTION:تولد ۴۰ سالگی فرناز — ۱۰ آبان ۱۴۰۵\, ساعت ۱۹:۰۰ تا ۲۳:۳۰\nمسیریابی (نشان): https://nshn.ir/rbvfFSYxODaZ
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Farnaz's 40th Birthday is tomorrow!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Farnaz's 40th Birthday starts in 3 hours
+END:VALARM
+END:VEVENT
+END:VCALENDAR
